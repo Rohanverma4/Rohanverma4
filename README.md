@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-verma-94a81821b/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="rv360176" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-verma-94a81821b/" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/219-2196987_linkedin-logo-for-email-signature-hd-png-download.png" alt="rv360176" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ignite desire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ignite desire" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohan verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohanverma1311" height="30" width="40" /></a>
 </p>
